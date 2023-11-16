@@ -1,6 +1,6 @@
 tag: browser
 -
-tag(): user.rango_direct_clicking
+# tag(): user.rango_direct_clicking
 
 # Click
 click <user.rango_target>:
